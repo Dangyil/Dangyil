@@ -9,6 +9,7 @@ I’m passionate about building scalable apps and providing computer related tec
 🎓 Studied Computer Engineering
 🛠️ Developer with experience in Web and Mobile
 ⚡ I enjoy building products that solve real-world problems
+
 🛠️ Tech Stack
 Languages & Core
 JavaScript | TypeScript |
