@@ -1,10 +1,13 @@
 Hi there, I’m David 👋
+
 🚀 Frontend web developer | IT Support Specialist  | Aspiring Backend & Mobile Developer
+
 I’m passionate about building scalable apps and providing computer related technical support.
 
 👨‍💻 About Me
+
 🎓 Studied Computer Engineering
-🛠️ Developer with experience in Web, Mobile, and Blockchain
+🛠️ Developer with experience in Web and Mobile
 ⚡ I enjoy building products that solve real-world problems
 🛠️ Tech Stack
 Languages & Core
@@ -12,9 +15,9 @@ JavaScript | TypeScript |
 Frontend
 React.js | Next.js | Tailwind CSS
 Backend
-Node.js | NestJS | Express | REST APIs
+Node.js | Express | REST APIs | MongoDB
 Mobile
-React Native (Expo) | Zustand | MongoDB (as DB layer)
+React Native | Zustand | MongoDB (as DB layer)
 Other Tools
 Git & GitHub | pnpm | Docker | Linux (Fedora)
 <!--
