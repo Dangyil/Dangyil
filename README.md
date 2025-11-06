@@ -1,5 +1,22 @@
-## Hi there 👋
+Hi there, I’m David 👋
+🚀 Frontend web developer | IT Support Specialist  | Aspiring Backend & Mobile Developer
+I’m passionate about building scalable apps and providing computer related technical support.
 
+👨‍💻 About Me
+🎓 Studied Computer Engineering
+🛠️ Developer with experience in Web, Mobile, and Blockchain
+⚡ I enjoy building products that solve real-world problems
+🛠️ Tech Stack
+Languages & Core
+JavaScript | TypeScript |
+Frontend
+React.js | Next.js | Tailwind CSS
+Backend
+Node.js | NestJS | Express | REST APIs
+Mobile
+React Native (Expo) | Zustand | MongoDB (as DB layer)
+Other Tools
+Git & GitHub | pnpm | Docker | Linux (Fedora)
 <!--
 **Dangyil/Dangyil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
