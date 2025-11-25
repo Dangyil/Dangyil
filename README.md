@@ -4,23 +4,26 @@ Hi there, I’m David 👋
 
 I’m passionate about building scalable apps and providing computer related technical support.
 
-👨‍💻 About Me
-
-🎓 Studied Computer Engineering
-🛠️ Developer with experience in Web and Mobile
+👨‍💻 About Me  
+🎓 Studied Computer Engineering  
+🛠️ Developer with experience in Web and Mobile  
 ⚡ I enjoy building products that solve real-world problems
 
 🛠️ Tech Stack
-Languages & Core
-JavaScript | TypeScript |
-Frontend
-React.js | Next.js | Tailwind CSS
-Backend
-Node.js | Express | REST APIs | MongoDB
-Mobile
-React Native | Zustand | MongoDB (as DB layer)
-Other Tools
-Git & GitHub | pnpm | Docker | Linux (Fedora)
+Languages & Core  
+JavaScript | TypeScript | 
+
+Frontend  
+React.js | Next.js | Tailwind CSS  
+
+Backend  
+Node.js | Express | REST APIs | MongoDB  
+
+Mobile  
+React Native | Zustand | MongoDB (as DB layer) 
+
+Other Tools  
+Git & GitHub | npm | Linux (Fedora)
 <!--
 **Dangyil/Dangyil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
