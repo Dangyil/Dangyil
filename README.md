@@ -6,8 +6,8 @@ I’m passionate about building scalable apps and providing computer related tec
 
 👨‍💻 About Me  
 🎓 Studied Computer Engineering  
-🛠️ Developer with experience in Web and Mobile  
-⚡ I enjoy building products that solve real-world problems
+🛠️ Developer with experience in Web and aspiring Mobile  
+⚡ I enjoy building products that solve real-world problems while giving superb user experience
 
 🛠️ Tech Stack
 Languages & Core  
