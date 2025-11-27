@@ -1,6 +1,6 @@
 Hi there, I’m David 👋
 
-🚀 Frontend web developer | IT Support Specialist  | Aspiring Backend & Mobile Developer
+🚀 MERN Stack Web developer | IT Support Specialist  | Aspiring Mobile App Developer
 
 I’m passionate about building scalable apps and providing computer related technical support.
 
@@ -19,8 +19,8 @@ React.js | Next.js | Tailwind CSS
 Backend  
 Node.js | Express | REST APIs | MongoDB  
 
-Mobile  
-React Native | Zustand | MongoDB (as DB layer) 
+Mobile(In View)  
+React Native | Zustand | MongoDB  
 
 Other Tools  
 Git & GitHub | npm | Linux (Fedora)
