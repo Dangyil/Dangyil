@@ -1,12 +1,12 @@
 Hi there, I’m David 👋
 
-🚀 MERN Stack Web developer | IT Support Specialist  | Aspiring Mobile App Developer
+🚀 MERN Stack Web developer | IT Support Specialist  | Costumer Service Specialist
 
 I’m passionate about building scalable apps and providing computer related technical support.
 
 👨‍💻 About Me  
 🎓 Studied Computer Engineering  
-🛠️ Developer with experience in Web and aspiring Mobile  
+🛠️ Web Developer
 ⚡ I enjoy building products that solve real-world problems while giving superb user experience
 
 🛠️ Tech Stack
@@ -18,9 +18,6 @@ React.js | Next.js | Tailwind CSS
 
 Backend  
 Node.js | Express | REST APIs | MongoDB  
-
-Mobile(In View)  
-React Native | Zustand | MongoDB  
 
 Other Tools  
 Git & GitHub | npm | Linux (Fedora)
